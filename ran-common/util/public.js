@@ -12,7 +12,9 @@ export default {
 	
 	//返回上一页
 	gotoPre() {
-		uni.navigateBack()
+		uni.navigateBack({
+			delta: 1
+		})
 	},
 	
 	//过滤html标签

@@ -1,9 +1,9 @@
 {
-    "name" : "Random Number",
+    "name" : "Random",
     "appid" : "__UNI__45E9BA0",
-    "description" : "Simple and convenient random number generation",
-    "versionName" : "1.0.1",
-    "versionCode" : 101,
+    "description" : "Simple and convenient random tool",
+    "versionName" : "1.0.2",
+    "versionCode" : 102,
     "transformPx" : false,
     /* 5+App特有相关 */
     "app-plus" : {
